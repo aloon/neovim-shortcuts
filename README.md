@@ -15,4 +15,9 @@ curl https://raw.githubusercontent.com/vim/vim/d899e51120798d3fb5420abb1f19dddf3
 u # undo
 y # copy
 p # paste
+
+/ # search
+n # next 
+
 ```
+
